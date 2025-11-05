@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="External User Self-Registration" source="com.snc.external_user_self_registration">1e079011c345721063557fd1b401313a</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-05 09:06:07</sys_created_on>
+        <sys_id>942990d5c345721063557fd1b4013129</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="ID Vetting" source="x_820638_id_vett_0">23e6c019c3c1721063557fd1b401313f</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-05 09:06:07</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

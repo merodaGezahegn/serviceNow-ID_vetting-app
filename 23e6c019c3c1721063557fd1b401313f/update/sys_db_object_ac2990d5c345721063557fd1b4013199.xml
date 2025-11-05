@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>true</delete_access>
+        <filter_extension/>
+        <is_df_table>false</is_df_table>
+        <is_extendable>false</is_extendable>
+        <label>ID Vett 0 Self Reg User Profile 759293</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_820638_id_vett_0_self_reg_user_profile_759293</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Self Registered User Profile" name="sys_self_registered_user_profile">7a07d011c345721063557fd1b4013115</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-05 09:06:09</sys_created_on>
+        <sys_id>ac2990d5c345721063557fd1b4013199</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ID Vett 0 Self Reg User Profile 759293</sys_name>
+        <sys_package display_value="ID Vetting" source="x_820638_id_vett_0">23e6c019c3c1721063557fd1b401313f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID Vetting">23e6c019c3c1721063557fd1b401313f</sys_scope>
+        <sys_update_name>sys_db_object_ac2990d5c345721063557fd1b4013199</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-05 09:06:09</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

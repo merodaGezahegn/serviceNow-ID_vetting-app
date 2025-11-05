@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="ID Vett 0 User Reg Req 759293" language="en" table="x_820638_id_vett_0_user_reg_req_759293">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>ID Vett 0 User Reg Req 759293</label>
+            <language>en</language>
+            <name>x_820638_id_vett_0_user_reg_req_759293</name>
+            <plural>ID Vett 0 User Reg Req 759293s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-11-05 09:06:07</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ID Vett 0 User Reg Req 759293</sys_name>
+            <sys_package display_value="ID Vetting" source="x_820638_id_vett_0">23e6c019c3c1721063557fd1b401313f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ID Vetting">23e6c019c3c1721063557fd1b401313f</sys_scope>
+            <sys_update_name>sys_documentation_x_820638_id_vett_0_user_reg_req_759293__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-11-05 09:06:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

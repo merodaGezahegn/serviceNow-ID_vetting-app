@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Create Account">b829d0d5c345721063557fd1b4013100</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-05 09:06:10</sys_created_on>
+        <sys_id>c529d0d5c345721063557fd1b401310a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Account.Registration form available for Public</sys_name>
+        <sys_package display_value="ID Vetting" source="x_820638_id_vett_0">23e6c019c3c1721063557fd1b401313f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID Vetting">23e6c019c3c1721063557fd1b401313f</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_c529d0d5c345721063557fd1b401310a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-05 09:06:10</sys_updated_on>
+        <user_criteria display_value="Registration form available for Public">2d1bf05373320010fdbd04fbc4f6a783</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
